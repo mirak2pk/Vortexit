@@ -527,10 +527,6 @@ nav {
   font-weight: 400;
 }
 
-#navbar ul li:hover {
-  text-decoration: line-through;
-}
-
 /* Sticky Navbar */
 .sticky {
   position: fixed;
