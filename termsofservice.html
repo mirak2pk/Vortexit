@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FluidAI</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/grid.css" />
+</head>
+
+<body>
+  <header id="home">
+    <nav>
+      <div class="navbar-logo">
+        <a href="#" class="logo">FluidAI</a>
+      </div>
+      <div id="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>      
+          <li><a href="#download">Download</a></li>
+          <li><a href="about.html">About</a></li>      
+          <li><a href="contactus.html">Contact us</a></li>
+        </ul>
+      </div>
+      <div id="mobileNav">
+        <span onclick="openNav()">&#9776;</span>
+      </div>
+      <div id="myNav" class="mobileNavOverlay">
+        <div class="overlay-content">
+          <a href="javascript:void()" class="close-btn" onclick="closeNav()">&times;</a>
+          <a href="#home" onclick="closeNav()">HOME</a>
+          <a href="#download" onclick="closeNav()">DOWNLOAD</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <section id="features">
+    <div class="row">
+      <div class="row second-features-row">
+        <div class="col span_2_of_2">
+          <h2 style="text-align: center;">Terms of Service</h2>
+          <p style="font-size: 1.125rem; margin-top: 1.875rem; text-align: center;">Effective Date: Tue 2 Jan 2024</p>
+          
+          <ol>
+            <li>
+              <strong>Acceptance of Terms:</strong> By accessing or using the FluidAI application ("the App"), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
+            </li>
+            <li>
+              <strong>Age Requirement:</strong> You must be at least 17 years old to use FluidAI. By using the App, you confirm that you meet this age requirement.
+            </li>
+            <li>
+              <strong>Use of the App:</strong> You agree to use FluidAI for lawful purposes only and in accordance with all applicable laws and regulations.
+            </li>
+            <li>
+              <strong>Subscriptions:</strong> Certain features of FluidAI may be available through a subscription. Subscriptions are billed on a periodic basis. By purchasing a subscription, you agree to the terms of the subscription.
+            </li>
+            <li>
+              <strong>Intellectual Property:</strong> The design, functionality, and content of FluidAI are the intellectual property of FluidAI. All rights not expressly granted herein are reserved. You agree not to reproduce, distribute, modify, or create derivative works of FluidAI without explicit permission.
+            </li>
+            <li>
+              <strong>User Content:</strong> By using FluidAI, you may have the opportunity to submit, post, or display content. You are solely responsible for the content you submit, and you grant FluidAI a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate, and distribute such content.
+            </li>
+            <li>
+              <strong>Disclaimer:</strong> FluidAI is provided "as is," and FluidAI makes no warranties, express or implied, regarding the App's accuracy, reliability, or performance.
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="footer">
+    <div class="links">
+      <ul>
+        <li><a href="#download">Download</a></li>
+        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="termsandconditions.html">Terms & Conditions</a></li>
+      </ul>
+    </div>
+    <div class="language-option">
+      <select name="Languages">
+        <option value="English" selected>ENGLISH</option>
+      </select>
+    </div>
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="js/essential.js"></script>
+  <script src="js/jquery.nice-select.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
