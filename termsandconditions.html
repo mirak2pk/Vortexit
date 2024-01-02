@@ -27,6 +27,34 @@
 </head>
 
 <body>
+
+    <header id="home">
+    <nav>
+      <div class="navbar-logo">
+        <a href="#" class="logo">FluidAI</a>
+      </div>
+      <div id="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>      
+          <li><a href="#download">Download</a></li>
+          <li><a href="about.html">About</a></li>      
+          <li><a href="contactus.html">Contact us</a></li>
+        </ul>
+      </div>
+      <div id="mobileNav">
+        <span onclick="openNav()">&#9776;</span>
+      </div>
+      <div id="myNav" class="mobileNavOverlay">
+        <div class="overlay-content">
+          <a href="javascript:void()" class="close-btn" onclick="closeNav()">&times;</a>
+          <a href="#home" onclick="closeNav()">HOME</a>
+          <a href="#download" onclick="closeNav()">DOWNLOAD</a>
+        </div>
+      </div>
+    </nav>
+
+</header>
+    
     <h1>End-User License Agreement (EULA) for FluidAI</h1>
 
     <p><strong>Effective Date:</strong> [Date]</p>
@@ -62,6 +90,27 @@
 
     <h2>10. Third Party Beneficiary</h2>
     <p>You and the End-User acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of this EULA, and upon the End-User’s acceptance of the terms, Apple will have the right to enforce the EULA against the End-User as a third-party beneficiary.</p>
+
+    <section id="footer">
+  <div class="links">
+    <ul>
+      <li><a href="#home">HOME</a></li>
+      <li><a href="#download">DOWNLOAD</a></li>
+      <li><a href="#privacy">PRIVACY POLICY</a></li>
+    </ul>
+  </div>
+  <div class="language-option">
+    <select name="Languages">
+      <option value="English" selected>ENGLISH</option>
+    </select>
+  </div>
+</section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="js/essential.js"></script>
+<script src="js/jquery.nice-select.min.js"></script>
+<script src="js/main.js"></script>
+    
 </body>
 
 </html>
