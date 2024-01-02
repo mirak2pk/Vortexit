@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>End-User License Agreement (EULA) for FluidAI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #555;
+        }
+
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>End-User License Agreement (EULA) for FluidAI</h1>
+
+    <p><strong>Effective Date:</strong> [Date]</p>
+
+    <p>This End-User License Agreement ("Agreement") is entered into between you, Hajar Akboub ("User" or "Licensee"), an individual, and Hajar Akboub ("Licensor") regarding the use of the FluidAI application ("Application").</p>
+
+    <h2>1. Acknowledgement</h2>
+    <p>You and the End-User acknowledge that this EULA is concluded between You and the End-User only, and not with Apple Inc. You, as the Licensor, are solely responsible for the FluidAI application and its content. This EULA does not provide for usage rules in conflict with the Apple Media Services Terms and Conditions.</p>
+
+    <h2>2. Scope of License</h2>
+    <p>The license granted to the End-User is limited to a non-transferable license to use the FluidAI application on any Apple-branded Products owned or controlled by the End-User, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions.</p>
+
+    <h2>3. Maintenance and Support</h2>
+    <p>Licensor, Hajar Akboub, is solely responsible for providing any maintenance and support services for the FluidAI application as specified in this EULA or as required under applicable law. Apple has no obligation to furnish any maintenance and support services.</p>
+
+    <h2>4. Warranty</h2>
+    <p>Hajar Akboub is solely responsible for any product warranties, whether express or implied by law. In the event of any failure of the FluidAI application to conform to any applicable warranty, the End-User may notify Apple, and Apple may refund the purchase price. Apple has no other warranty obligation, and any claims related to warranty failures are the sole responsibility of Hajar Akboub.</p>
+
+    <h2>5. Product Claims</h2>
+    <p>Hajar Akboub is responsible for addressing any claims of the End-User or third parties relating to the FluidAI application, including product liability claims, failure to conform to legal or regulatory requirements, and claims arising under consumer protection, privacy, or similar legislation. The EULA does not limit Hajar Akboub's liability beyond what is permitted by applicable law.</p>
+
+    <h2>6. Intellectual Property Rights</h2>
+    <p>In the event of any third-party claim that the FluidAI application infringes intellectual property rights, Hajar Akboub is solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim.</p>
+
+    <h2>7. Legal Compliance</h2>
+    <p>The End-User represents and warrants that they are not located in a country subject to a U.S. Government embargo or designated as a "terrorist supporting" country. The End-User is not listed on any U.S. Government list of prohibited or restricted parties.</p>
+
+    <h2>8. Developer Name and Address</h2>
+    <p>Hajar Akboub's name, address, and contact information (telephone number; E-mail address) are provided in this EULA. Any End-User questions, complaints, or claims should be directed to this contact information.</p>
+
+    <h2>9. Third Party Terms of Agreement</h2>
+    <p>The EULA states that the End-User must comply with applicable third-party terms of agreement when using the FluidAI application.</p>
+
+    <h2>10. Third Party Beneficiary</h2>
+    <p>You and the End-User acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of this EULA, and upon the End-User’s acceptance of the terms, Apple will have the right to enforce the EULA against the End-User as a third-party beneficiary.</p>
+</body>
+
+</html>
